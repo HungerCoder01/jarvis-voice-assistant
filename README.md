@@ -77,7 +77,7 @@ The assistant matches speech → text → song name → plays music.
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/jarvis-voice-assistant.git
+git clone https:https://github.com/HungerCoder01/jarvis-voice-assistant.git
 cd jarvis-voice-assistant
 
 2️⃣ (Recommended) Create Virtual Environment
